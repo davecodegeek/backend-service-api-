@@ -1,0 +1,19 @@
+backend-service-api/
+│
+├── src/
+│   ├── config/
+│   │   └── db.js
+│   ├── controllers/
+│   │   └── userController.js
+│   ├── models/
+│   │   └── User.js
+│   ├── routes/
+│   │   └── userRoutes.js
+│   ├── middlewares/
+│   │   └── errorHandler.js
+│   └── server.js
+│
+├── package.json
+├── .env.example
+├── README.md
+└── .gitignore
